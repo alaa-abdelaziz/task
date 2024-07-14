@@ -1,0 +1,207 @@
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\appsettings.Development.json
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\appsettings.json
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\APIs.exe
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\APIs.deps.json
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\APIs.runtimeconfig.json
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\APIs.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\APIs.pdb
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\APIs.csproj.AssemblyReference.cache
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\APIs.GeneratedMSBuildEditorConfig.editorconfig
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\APIs.AssemblyInfoInputs.cache
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\APIs.AssemblyInfo.cs
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\APIs.csproj.CoreCompileInputs.cache
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\APIs.MvcApplicationPartsAssemblyInfo.cs
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\APIs.MvcApplicationPartsAssemblyInfo.cache
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\staticwebassets\msbuild.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.APIs.props
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIs.props
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIs.props
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\staticwebassets.pack.json
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\staticwebassets.build.json
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\staticwebassets.development.json
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\scopedcss\bundle\APIs.styles.css
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\APIs.csproj.CopyComplete
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\APIs.dll
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\refint\APIs.dll
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\APIs.pdb
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\APIs.genruntimeconfig.cache
+F:\course .net\New folder\APIs\APIs\obj\Debug\net6.0\ref\APIs.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Humanizer.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\course .net\New folder\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\appsettings.Development.json
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\appsettings.json
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\APIs.exe
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\APIs.deps.json
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\APIs.runtimeconfig.json
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\APIs.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\APIs.pdb
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Humanizer.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.csproj.AssemblyReference.cache
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.GeneratedMSBuildEditorConfig.editorconfig
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.AssemblyInfoInputs.cache
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.AssemblyInfo.cs
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.csproj.CoreCompileInputs.cache
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.MvcApplicationPartsAssemblyInfo.cs
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.MvcApplicationPartsAssemblyInfo.cache
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\staticwebassets\msbuild.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.APIs.props
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIs.props
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIs.props
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\staticwebassets.pack.json
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\staticwebassets.build.json
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\staticwebassets.development.json
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\scopedcss\bundle\APIs.styles.css
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.csproj.CopyComplete
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\refint\APIs.dll
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.pdb
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.genruntimeconfig.cache
+F:\course .net\New folder\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\ref\APIs.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\appsettings.Development.json
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\appsettings.json
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\APIs.exe
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\APIs.deps.json
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\APIs.runtimeconfig.json
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\APIs.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\APIs.pdb
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Humanizer.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.csproj.AssemblyReference.cache
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.AssemblyInfoInputs.cache
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.AssemblyInfo.cs
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.csproj.CoreCompileInputs.cache
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.MvcApplicationPartsAssemblyInfo.cs
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.MvcApplicationPartsAssemblyInfo.cache
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\staticwebassets.build.json
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\staticwebassets.development.json
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\staticwebassets\msbuild.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\staticwebassets\msbuild.build.APIs.props
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIs.props
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIs.props
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\staticwebassets.pack.json
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\scopedcss\bundle\APIs.styles.css
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.csproj.Up2Date
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\refint\APIs.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.pdb
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\APIs.genruntimeconfig.cache
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\obj\Debug\net6.0\ref\APIs.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\.net\my-tasks\Alaa-abdelaziz-task\APIs\APIs\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
